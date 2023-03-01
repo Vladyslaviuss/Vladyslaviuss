@@ -28,7 +28,7 @@ My commitment to continuous learning and improvement is an essential part of my 
   <i>How to reach me: </i>
 
   <p align="center">
-    <a href="" alt="Telegram"><img src="svg/telegram.svg" width="20px" height="20px"></a>
+    <a href="https://t.me/unstoppableM" alt="Telegram"><img src="svg/telegram.svg" width="20px" height="20px"></a>
     <a href="https://www.linkedin.com/in/vladyslav-marakhovskyi/" alt="LinkedIn"><img  src="svg/linkedin.svg"></a>
     <a href="mailto:marakhovskyiv@gmail.com" alt="Mail"><img src="svg/mail.svg" width="20px" height="20px"></a>
   </p>
